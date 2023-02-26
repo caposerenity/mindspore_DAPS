@@ -3,7 +3,7 @@
 
 DAPS[论文地址参见](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136740295.pdf)是ECCV2022的中稿工作，论文全名为Domain Adaptive Person Search。该方法基于SeqNet，在CUHK-SYSU和PRW两个数据集之间测试了互相的迁移性能，并针对行人搜索这一任务提出了新的域自适应方法。
 
-如下为MindSpore使用CUHK-SYSU数据集对DAPS进行训练的示例。
+如下为MindSpore使用CUHK-SYSU数据集对DAPS进行训练的示例。该项目的Pytorch实现版本可以[参考](https://github.com/caposerenity/DAPS)
 
 ## 性能
 
